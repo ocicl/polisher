@@ -1,0 +1,10 @@
+* polisher
+
+Infix notation to S-expression (Polish notation) translator for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mrcdr/polisher.git   |
+| commit  | 7ea1e7c  |
+| systems | polisher |
+|---------+-------------------------------------------|
+
