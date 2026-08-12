@@ -8,4 +8,4 @@ Infix notation to S-expression (Polish notation) translator for Common Lisp
 | systems | polisher |
 |---------+-------------------------------------------|
 
- 
+  
